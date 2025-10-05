@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6TPE150MAZB
+D Panasonic 150uF 6.3V dc Tantalum Capacitor Polymer Solid +/-20% Tolerance POSCAP TPE Series
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/AAA8000/AAA8000C36.pdf
+$ENDCMP
+#
+#End Doc Library
