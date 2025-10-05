@@ -1,4 +1,5 @@
 # SwitchSystem  
+**NOTE: Files with parts under NDA has been removed**
 
 The **SwitchSystem** PCB was developed as an *add-on discharging solution* for existing **AC home chargers**.  
 
